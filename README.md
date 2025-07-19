@@ -24,18 +24,16 @@ This project demonstrates how to deploy a simple web application using Docker an
 
 ## Project Structure
 .
+```
 ├── app/                 # Application source code
-│   ├── app.js           # Main application file (Node.js example)
-│   ├── package.json     # Node.js dependencies and scripts
-│   └── templates/       # HTML templates (for Flask apps, optional)
-│       └── index.html   # Example static page
+│
 ├── Dockerfile           # Docker configuration for containerizing the app
 ├── .github/             # GitHub Actions CI/CD configuration
 │   └── workflows/
 │       └── main.yml     # CI/CD pipeline definition
 ├── README.md            # Documentation for the project
 └── LICENSE              # License file (optional)
-
+```
 
 CI/CD Pipeline
 Workflow Overview
