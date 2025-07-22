@@ -1,4 +1,4 @@
-name: CI/CD - Flask App
+name: CI/CD - Flask App!
 
 on:
   push:
