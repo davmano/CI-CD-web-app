@@ -8,8 +8,8 @@ env:
   IMAGE_NAME: davmano/flask-app
 
 jobs:
-  build-test-push:
-    runs-on: ubuntu-latest
+  build-test-push-deploy:
+    runs-on: self-hosted
 
     steps:
     - name: Checkout repo
