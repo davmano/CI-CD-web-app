@@ -38,6 +38,7 @@ This project demonstrates how to deploy a simple web application using Docker an
 CI/CD Pipeline
 Workflow Overview
 The GitHub Actions pipeline automates:
+<img width="1024" height="1536" alt="ChatGPT Image Aug 5, 2025, 03_33_23 PM" src="https://github.com/user-attachments/assets/fb929bb4-ee79-4de9-8493-0fca3bf65acd" />
 
 ``` Code Checkout: Pulls the latest code.
 Docker Build: Builds the application container.
