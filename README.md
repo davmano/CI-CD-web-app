@@ -39,8 +39,9 @@ CI/CD Pipeline
 Workflow Overview
 The GitHub Actions pipeline automates:
 
-Code Checkout: Pulls the latest code.
+``` Code Checkout: Pulls the latest code.
 Docker Build: Builds the application container.
 Tests: Runs automated tests (if any).
 Push to Docker Hub: Publishes the Docker image.
 Deployment: Deploys the application.
+```
